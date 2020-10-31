@@ -1,0 +1,23 @@
+/* this file is to be linked with index.html */
+
+#root {
+  border: 10px solid #17b978;
+  padding: 0 50px;
+  margin: auto;
+  width: 50%;
+  /* vertical-align: middle; */
+}
+p {
+  font-size: 30px;
+  line-height: 48px;
+  margin-bottom: 30;
+  opacity: 0.6;
+}
+figcaption {
+  display: block;
+  padding-right: 10px;
+  text-align: right;
+  font-size: 18px;
+  font-style: italic;
+  color: #84775c;
+}
