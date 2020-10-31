@@ -1,17 +1,5 @@
-# JAVASCRIPT-BOILERPLATE :
+# QUOTE-GENERATOR:
 
-- Clone This Repository:
-  ```bash
-  git clone https://github.com/pronayguha13/JS-PROJECT-BOILERPLATE
-  ```
-- Go to your file manager and rename the project
-- Open Terminal in directory where you cloned the repository
-- Remove the .git directory
-  ```bash
-  rm -rf .git
-  ```
-- Reinitialize the repository with another .git directory by typing the following command in terminal in repository root
-  ```bash 
-  git init
-  ```
-- And You're good to go .
+- A simple application which generate random quote
+- Quotes are fetched from the api https://type.fit/api/quotes
+- Thanks to [SergeyWebPro](https://forum.freecodecamp.org/u/SergeyWebPro)
